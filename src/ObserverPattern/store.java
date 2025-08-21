@@ -25,5 +25,6 @@ public class store {
         iphoneStockObservable.getStockCount();
         iphoneStockObservable.setStockCount(5);
         iphoneStockObservable.getStockCount();
+        // test commit
     }
 }
